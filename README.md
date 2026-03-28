@@ -41,7 +41,7 @@ avanzzas-contenedor/
 ## Clonar este repositorio
 
 ```bash
-git clone <URL_DE_TU_REPOSITORIO>
+git clone https://github.com/EmanuelAlv/avanzzas-contenedor.git
 cd avanzzas-contenedor
 ```
 
